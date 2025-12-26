@@ -1,26 +1,26 @@
 # Olá, eu sou o Felipe Cecilio! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no **IFTM**[cite: 25], focado em criar soluções eficientes através do desenvolvimento de software. [cite_start]Tenho um perfil proativo [cite: 7] [cite_start]e comunicador [cite: 8][cite_start], com experiência em otimização de processos e foco em resultados de negócio[cite: 17, 23].
+Estudante de **Análise e Desenvolvimento de Sistemas** no **IFTM**, focado em criar soluções eficientes através do desenvolvimento de software. Tenho um perfil proativo e comunicador, com experiência em otimização de processos e foco em resultados de negócio.
 
 ### 🚀 Sobre Mim
-* [cite_start]🎓 Cursando Análise e Desenvolvimento de Sistemas (Conclusão em 2026)[cite: 25].
-* [cite_start]🛠️ Experiência prática: Reduzi custos operacionais automatizando contratos via lógica de programação[cite: 5, 17].
-* [cite_start]📈 Foco em resultados: Contribui para o aumento de 40% no faturamento de uma empresa em 6 meses[cite: 23].
-* [cite_start]🌎 Idiomas: **Inglês Avançado** [cite: 30] [cite_start]e Espanhol Básico[cite: 31].
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas (Conclusão em 2026).
+* 🛠️ Experiência prática: Reduzi custos operacionais automatizando contratos via lógica de programação.
+* 📈 Foco em resultados: Contribui para o aumento de 40% no faturamento de uma empresa em 6 meses.
+* 🌎 Idiomas: **Inglês Avançado** e Espanhol Básico.
 
 ### 🛠️ Tecnologias e Ferramentas
-* [cite_start]**Linguagens:** Java (Orientação a Objetos) [cite: 27][cite_start], HTML5 e CSS3[cite: 33].
-* [cite_start]**Frameworks:** Spring Boot e Microsserviços[cite: 28].
-* [cite_start]**Ferramentas:** Excel Avançado (Automação/VBA) [cite: 33] [cite_start]e Lógica de Programação[cite: 33].
+* **Linguagens:** Java (Orientação a Objetos), HTML5 e CSS3.
+* **Frameworks:** Spring Boot e Microsserviços.
+* **Ferramentas:** Excel Avançado (Automação/VBA) e Lógica de Programação.
 
 ### 📚 Cursos em Destaque
-* [cite_start]**Java Completo e Orientação a Objetos** – Nélio Alves[cite: 27].
-* [cite_start]**Mergulho em Microsserviços com Spring** – Algaworks[cite: 28].
+* **Java Completo e Orientação a Objetos** – Nélio Alves.
+* **Mergulho em Microsserviços com Spring** – Algaworks.
 
 ### 📧 Contato
-* [cite_start]**LinkedIn:** [linkedin.com/in/ceciliopf](https://linkedin.com/in/ceciliopf) 
-* [cite_start]**Email:** felipepintocecilio@hotmail.com 
-* [cite_start]**Localização:** Uberaba/MG [cite: 2]
+* **LinkedIn:** [linkedin.com/in/ceciliopf](https://linkedin.com/in/ceciliopf)
+* **Email:** felipepintocecilio@hotmail.com
+* **Localização:** Uberaba/MG
 
 ---
-[cite_start]*Interessado em oportunidades de estágio na área de desenvolvimento de software.* [cite: 10]
+*Interessado em oportunidades de estágio na área de desenvolvimento de software.*
