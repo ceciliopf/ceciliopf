@@ -5,7 +5,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFTM**, focado em c
 ### 🚀 Sobre Mim
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas (Conclusão em 2026).
 * 🛠️ Experiência prática: Reduzi custos operacionais automatizando contratos via lógica de programação.
-* 📈 Foco em resultados: Contribui para o aumento de 40% no faturamento de uma empresa em 6 meses.
+* 📈 Foco em resultados: Contribui para o aumento de 20% no faturamento de uma empresa em 6 meses.
 * 🌎 Idiomas: **Inglês Avançado** e Espanhol Básico.
 
 ### 🛠️ Tecnologias e Ferramentas
