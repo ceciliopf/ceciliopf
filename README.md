@@ -10,7 +10,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFTM**, focado em c
 
 ### 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** Java (Orientação a Objetos), JavaScript, HTML5 e CSS3.
-* **Frameworks:** Spring Boot, Node.js e React Native.
+* **Frameworks:** Spring Boot e React Native.
 * **Ferramentas:** Excel Avançado (Automação/VBA) e Lógica de Programação.
 
 ### 📚 Cursos em Destaque
