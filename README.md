@@ -9,8 +9,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFTM**, focado em c
 * 🌎 Idiomas: **Inglês Avançado** e Espanhol Básico.
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Java (Orientação a Objetos), HTML5 e CSS3.
-* **Frameworks:** Spring Boot e Microsserviços.
+* **Linguagens:** Java (Orientação a Objetos), JavaScript, HTML5 e CSS3.
+* **Frameworks:** Spring Boot, Node.js e React Native.
 * **Ferramentas:** Excel Avançado (Automação/VBA) e Lógica de Programação.
 
 ### 📚 Cursos em Destaque
